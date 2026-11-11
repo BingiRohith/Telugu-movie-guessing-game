@@ -1,0 +1,22 @@
+{
+  "name": "telugu-dialogue-battle",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-01",
+  // Real purchases stay disabled; local review can explicitly enable the simulator.
+  "vars": { "TEST_CHECKOUT_ENABLED": "false" },
+  "assets": {
+    "directory": "./out",
+    "run_worker_first": ["/api/*"]
+  },
+  // Preserve this account namespace when changing authentication or profile fields.
+  "durable_objects": {
+    "bindings": [
+      { "name": "ROOMS", "class_name": "BattleRoom" },
+      { "name": "PROFILES", "class_name": "ProfileAccount" }
+    ]
+  },
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["BattleRoom"] },
+    { "tag": "v2", "new_sqlite_classes": ["ProfileAccount"] }
+  ]
+}

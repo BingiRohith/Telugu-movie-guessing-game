@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+.wrangler/
+.dev.vars*
+legacy-content/**/*.mp3
+legacy-content/**/*.wav
+legacy-content/**/*.webm
+legacy-content/**/*.mp4
+*.log
+Thumbs.db
+.DS_Store

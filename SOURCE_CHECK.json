@@ -1,0 +1,165 @@
+{
+  "checkedAt": "2026-11-11T12:31:06.032Z",
+  "checks": [
+    {
+      "id": "salaar-score",
+      "film": "Salaar: Part 1 – Ceasefire",
+      "year": 2023,
+      "source": "https://www.youtube.com/watch?v=Z1QuBXVrUHU",
+      "title": "Sound of Salaar | Music By Ravi Basrur | Hombale Films",
+      "publisher": "Hombale Films",
+      "publisherUrl": "https://www.youtube.com/@HombaleFilms",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "devara-score",
+      "film": "Devara: Part 1",
+      "year": 2024,
+      "source": "https://www.youtube.com/watch?v=W1VOKBIuV7o",
+      "title": "Devara Part 1 (Original SoundTrack) OST Jukebox | NTR,Janhvi | Anirudh Ravichander | Koratala Siva",
+      "publisher": "T-Series Telugu",
+      "publisherUrl": "https://www.youtube.com/@TseriesTelugu",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "baahubali-score",
+      "film": "Baahubali: The Beginning",
+      "year": 2015,
+      "source": "https://www.youtube.com/watch?v=wLYYYTZihD8",
+      "title": "Baahubali OST - Volume 04 - The Saviour | MM Keeravaani",
+      "publisher": "Lahari Music",
+      "publisherUrl": "https://www.youtube.com/@LahariMusicIndia",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "kalki-song",
+      "film": "Kalki 2898 AD",
+      "year": 2024,
+      "source": "https://www.youtube.com/watch?v=RZysj-443-8",
+      "title": "Theme of Kalki (Telugu) | Kalki 2898 AD | Prabhas | Amitabh | Kamal | Deepika | Santhosh Narayanan",
+      "publisher": "Saregama Telugu",
+      "publisherUrl": "https://www.youtube.com/@saregamasouth",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "og-glimpse",
+      "film": "They Call Him OG",
+      "year": 2025,
+      "source": "https://www.youtube.com/watch?v=ePOglweqy7o",
+      "title": "Hungry Cheetah - OG Glimpse | Pawan Kalyan | Sujeeth | Thaman S | DVV Danayya",
+      "publisher": "Sony Music South",
+      "publisherUrl": "https://www.youtube.com/@SonyMusicSouthOfficial",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "pokiri-trailer",
+      "film": "Pokiri",
+      "year": 2006,
+      "source": "https://www.youtube.com/watch?v=rdIwjSBIW4w",
+      "title": "Pokiri Theatrical Trailer - Best Trailer Ever ( Must Watch For a Kick )",
+      "publisher": "Puri Jagannadh",
+      "publisherUrl": "https://www.youtube.com/@purijagannadh",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "rrr-trailer",
+      "film": "RRR",
+      "year": 2022,
+      "source": "https://www.youtube.com/watch?v=NgBoMJy386M",
+      "title": "RRR Trailer (Telugu) - NTR, Ram Charan, Ajay Devgn, Alia Bhatt | SS Rajamouli | 25th March 2022",
+      "publisher": "DVV Entertainment",
+      "publisherUrl": "https://www.youtube.com/@DVVMovies",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "salaar-scene",
+      "film": "Salaar: Part 1 – Ceasefire",
+      "year": 2023,
+      "source": "https://www.youtube.com/watch?v=0ZO1fiYGCjU",
+      "title": "Salaar Interval Scene Released — The Rage Begins!| Prabhas | Prithviraj | Prashanth | Hombale Films",
+      "publisher": "Hombale Films",
+      "publisherUrl": "https://www.youtube.com/@HombaleFilms",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "pushpa-trailer",
+      "film": "Pushpa 2: The Rule",
+      "year": 2024,
+      "source": "https://www.youtube.com/watch?v=g3JUbgOHgdw",
+      "title": "Pushpa 2 The Rule Trailer (Telugu) | Allu Arjun | Sukumar | Rashmika Mandanna | Fahadh Faasil | DSP",
+      "publisher": "Mythri Movie Makers",
+      "publisherUrl": "https://www.youtube.com/@MythriMovieMakers",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "badri-song",
+      "film": "Badri",
+      "year": 2000,
+      "source": "https://www.youtube.com/watch?v=9eec_n6aREE",
+      "title": "Bangala Kathamulo Full Song |Badri|Pawan Kalyan|Pawan Kalyan,Ramana Gogula Hits | Aditya Music",
+      "publisher": "Aditya Music",
+      "publisherUrl": "https://www.youtube.com/@adityamusic",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "kushi-song",
+      "film": "Kushi",
+      "year": 2001,
+      "source": "https://www.youtube.com/watch?v=9RV5WgwDvGM",
+      "title": "Ye Mera Jaha Full Song |Kushi|Pawan Kalyan|Pawan Kalyan, Mani Sharma Hits | Aditya Music",
+      "publisher": "Aditya Music",
+      "publisherUrl": "https://www.youtube.com/@adityamusic",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "magadheera-song",
+      "film": "Magadheera",
+      "year": 2009,
+      "source": "https://www.youtube.com/watch?v=qTE453yc1rc",
+      "title": "Panchadara Bomma Full Video Song || Magadheera Movie || Ram Charan, Kajal Agarwal",
+      "publisher": "Geetha Arts ",
+      "publisherUrl": "https://www.youtube.com/@geethaarts",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "butta-bomma",
+      "film": "Ala Vaikunthapurramuloo",
+      "year": 2020,
+      "source": "https://www.youtube.com/watch?v=2mDCVzruYzQ",
+      "title": "ButtaBomma Video Song (4K) (Telugu) | #AlaVaikunthapurramuloo | Allu Arjun | Thaman S | Armaan Malik",
+      "publisher": "Aditya Music",
+      "publisherUrl": "https://www.youtube.com/@adityamusic",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "naatu-naatu",
+      "film": "RRR",
+      "year": 2022,
+      "source": "https://www.youtube.com/watch?v=4_eEgJhsBMo",
+      "title": "Full Video: Naatu Naatu Song (Telugu) | RRR Songs | NTR,Ram Charan | MM Keeravaani | SS Rajamouli",
+      "publisher": "T-Series Telugu",
+      "publisherUrl": "https://www.youtube.com/@TseriesTelugu",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "daavudi",
+      "film": "Devara: Part 1",
+      "year": 2024,
+      "source": "https://www.youtube.com/watch?v=QQwDeJFSVvc",
+      "title": "Full Video: Daavudi - దావూదీ | Devara | NTR | Janhvi Kapoor | Koratala Siva | Anirudh Ravichander",
+      "publisher": "T-Series Telugu",
+      "publisherUrl": "https://www.youtube.com/@TseriesTelugu",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    },
+    {
+      "id": "chikiri-chikiri",
+      "film": "Peddi",
+      "year": 2026,
+      "source": "https://www.youtube.com/watch?v=RyzPweJKJ9M",
+      "title": "Full Video: Chikiri Chikiri | Peddi | Ram Charan | Janhvi | Buchi Babu | AR Rahman | Mohit Chauhan",
+      "publisher": "T-Series Telugu",
+      "publisherUrl": "https://www.youtube.com/@TseriesTelugu",
+      "status": "metadata available; in-browser playback still requires manual verification"
+    }
+  ]
+}

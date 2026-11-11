@@ -1,0 +1,43 @@
+{
+  "music": [
+    {
+      "id": "malapilla-title-music",
+      "prompt": "Which Telugu film opens with this music?",
+      "options": ["Harishchandra (1935)", "Malapilla (1938)", "Bhookailas (1940)", "Palletooru (1952)"],
+      "answer": 1,
+      "clue": "This 1938 film was directed by Gudavalli Ramabrahmam.",
+      "clip": {
+        "path": "/audio/cinema/malapilla-title-music.mp3",
+        "credit": "Opening title music from the 1938 Malapilla film print. Music credited to Bhimavarapu Narasimha Rao.",
+        "source": "https://commons.wikimedia.org/wiki/File:Malapilla_(1938).webm"
+      }
+    }
+  ],
+  "dialogue": [],
+  "song": [
+    {
+      "id": "malapilla-nallavaade",
+      "prompt": "Which Telugu film features this song?",
+      "options": ["Harishchandra (1935)", "Palletooru (1952)", "Malapilla (1938)", "Bhookailas (1940)"],
+      "answer": 2,
+      "clue": "The song is Nallavaade Golla Pillavaade, with lyrics by Basavaraju Apparao.",
+      "clip": {
+        "path": "/audio/cinema/malapilla-nallavaade.mp3",
+        "credit": "Nallavaade Golla Pillavaade from the original film print. Sung by Kanchanamala and Sundaramma. Music by Bhimavarapu Narasimha Rao.",
+        "source": "https://indiancine.ma/CPT/info"
+      }
+    },
+    {
+      "id": "malapilla-aa-mabbu",
+      "prompt": "Who composed the music for this film song?",
+      "options": ["Bhimavarapu Narasimha Rao", "Ghantasala Venkateswara Rao", "Pendyala Nageswara Rao", "Saluri Rajeswara Rao"],
+      "answer": 0,
+      "clue": "This is Aa Mabbu Ee Mabbu from Malapilla (1938).",
+      "clip": {
+        "path": "/audio/cinema/malapilla-aa-mabbu.mp3",
+        "credit": "Aa Mabbu Ee Mabbu from the original film print. Lyrics by Basavaraju Apparao. Singers include Gaali Venkateswara Rao, Kanchanamala, and Sundaramma.",
+        "source": "https://indiancine.ma/CPT/info"
+      }
+    }
+  ]
+}

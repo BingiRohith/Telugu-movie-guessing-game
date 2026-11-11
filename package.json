@@ -1,0 +1,36 @@
+{
+  "name": "telugu-dialogue-battle",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --disable-warning=ExperimentalWarning --test tests/*.test.ts",
+    "test:profile": "node tests/profile.integration.mjs",
+    "dev:preview": "wrangler dev --ip 127.0.0.1 --port 8787 --var TEST_CHECKOUT_ENABLED:true",
+    "build:preview": "npm run build",
+    "review": "npm run build && npm run dev:preview",
+    "check:sources": "node --experimental-strip-types scripts/check-sources.mjs",
+    "test:economy": "node --experimental-strip-types tests/economy.integration.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261110.1",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "~5.9.0",
+    "wrangler": "^4.160.0"
+  }
+}
